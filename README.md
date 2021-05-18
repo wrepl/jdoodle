@@ -1,8 +1,12 @@
 # JDoodle API
 
-Unofficial API Wrapper for [Jdoodle](https://www.jdoodle.com/) REPL Website.
+Unofficial API Wrapper for [JDoodle](https://www.jdoodle.com/) REPL Website.
 
 Check valid `languageCode` and `versionIndex` at [JDoodle Docs](https://docs.jdoodle.com/compiler-api/compiler-api#what-languages-and-versions-supported)
+
+## Installation
+
+`npm i jdoodle-api`
 
 ## Usage
 
